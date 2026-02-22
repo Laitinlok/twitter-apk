@@ -46,5 +46,5 @@ def download_apkeditor():
 def download_revanced_bins():
     print("Downloading cli")
     download_release_asset(
-        "MorpheApp/morphe-cli", "^morphe-cli.*jar$", "bins", "cli.jar", version="v5.0.2"
+        "MorpheApp/morphe-cli", "^morphe-cli.*jar$", "bins", "cli.jar", version="v1.4.0"
     )
